@@ -4,9 +4,9 @@ from psycopg2.extensions import ISOLATION_LEVEL_AUTOCOMMIT
 ########################################
 # Update connection string information #
 ########################################
-host = "<<host>>"
-user = "<<user>>"
-password = "<<password>>"
+host = "<<my1projectpostgresqlserver.postgres.database.azure.com>>"
+user = "<<postgresql>>"
+password = "<<Tejaswini@123>>"
 
 # Create a new DB
 sslmode = "require"
